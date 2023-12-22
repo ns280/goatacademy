@@ -5,3 +5,7 @@ html, body {
 canvas {
   display: block;
 }
+button{
+    height:50px;
+    width:800px;
+}
